@@ -1,8 +1,0 @@
-pyTelegramBotAPI
-google-generativeai
-requests
-schedule
-google-api-python-client
-google-auth-oauthlib
-google-auth-httplib2
-moviepy
