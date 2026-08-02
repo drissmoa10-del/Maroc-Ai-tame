@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+google-generativeai
+schedule
+requests
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+opencv-python-headless
+moviepy
